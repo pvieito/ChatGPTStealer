@@ -6,7 +6,7 @@ The OpenAI ChatGPT for Mac app stored user conversations in plain text in a non-
 
 ### ChatGPTStealer
 
-Demo app to showe how easily any other app could access any ChatGPT conversation without any permission prompt before the update:
+Demo app to show how easily any other app could access any ChatGPT conversation without any permission prompt before the update:
 
 https://github.com/pvieito/ChatGPTStealer/assets/1706695/1df8e440-1a77-46fd-be99-29a2ee31888d
 
